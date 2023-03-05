@@ -1,0 +1,2 @@
+# Puzzles
+EDOPro practice puzzles
